@@ -23,7 +23,7 @@ title: "Ravi Sehdev - CV"
 email: "ravisehdev@gmail.com"
 description: "Thanks for visiting"
 author: "Admin"
-baseurl: "https://rs-cyber.github.io/rsehdev/" # the subpath of your site, e.g. /blog
+baseurl: "rsehdev" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%b %d, %Y"
 
