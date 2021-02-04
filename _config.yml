@@ -24,7 +24,7 @@ email: "ravisehdev@gmail.com"
 description: "Thanks for visiting"
 author: "Admin"
 baseurl: "rsehdev" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rs-cyber.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%b %d, %Y"
 
 # paginations & permalinks
