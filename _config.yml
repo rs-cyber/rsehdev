@@ -40,9 +40,9 @@ disqus_shortname: "ryancv-jekyll-theme" # read more here https://help.disqus.com
 formsubmit_email: "ravisehdev@gmail.com" # sign up on https://formsubmit.io/ and confirm your email
 
 # google maps
-google_maps_api_key: "AIzaSyDz2w7HUaWudHwd7AWQpCL48Qs050WOn9s" #google maps api key
-google_maps_lat: "40.773328" #google maps latitude
-google_maps_long: "-73.960088" #google maps longitude
+google_maps_api_key: "AIzaSyChRerBamtg0_d0e0fU3NMhPr8agEvQbag" #google maps api key
+google_maps_lat: "43.7299769" #google maps latitude
+google_maps_long: "-79.761607" #google maps longitude
 google_maps_zoom: "14" #google maps zoom
 
 # collections
