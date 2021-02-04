@@ -8,44 +8,44 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hello! I’m Ryan Adlard.</strong><br> Web designer from USA, California. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+          <strong>Hello! I’m Ravi Sehdev.</strong><br> Lead Applications Analyst from Brampton, Canada. I have rich experience in leading an applications team in the legal sector. I also have a passion for delivering solutions tied to growth and day-to-day operations.
         </p>
         "
   list:
     - label: "Age"
-      value: "24"
+      value: "31"
 
     - label: "Residence"
-      value: "USA"
+      value: "Canada"
 
-    - label: "Freelance"
-      value: "Available"
+    - label: "Employment"
+      value: "Miltom Management LP0"
 
     - label: "Address"
-      value: "California, USA"
+      value: "Brampton, Canada"
 
 ### Services [ services ]
 services:
   title: "My Services"
   items:
     - icon: "code"
-      name: "Web Development"
-      text: "Modern and mobile-ready website that will help you reach all of your marketing."
+      name: "Lead"
+      text: "Set the team goals and overaw day-to-day operations. Reviewed and approved changes affecting end users"
       h_line: 1
 
-    - icon: "music-note"
-      name: "Music Writing"
-      text: "Music copying, transcription, arranging and composition services."
+    - icon: "code"
+      name: "Design"
+      text: "Defined, documented and translated business requirements into detailed functional specifications."
       h_line: 1
 
     - icon: "speakerphone"
-      name: "Advetising"
-      text: "Advertising services include television, radio, print, mail and web."
+      name: "Implement"
+      text: "Quality Control for testing prior to distribution. Expertise in Application operations"
       h_line: 0
 
     - icon: "ios-game-controller-b"
-      name: "Game Development"
-      text: "Developing memorable and unique mobile android, ios games."
+      name: "Maintain"
+      text: "Schedules releases through a managed software release calendar, including ad hoc application updates and end user software image updates"
       h_line: 0
 
 ### Pricing [ pricing ]
