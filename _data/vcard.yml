@@ -12,7 +12,7 @@ main:
   photo: ""
   name: "Ravi Sehdev"
   typed:
-    - text: "Lead Applications Analyst"
+    - text: "Test"
     - text: "Design"
     - text: "Implement"
     - text: "Maintain"
