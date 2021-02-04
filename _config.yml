@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "Ravi Sehdev - CV / Resume"
+title: "Ravi Sehdev - Resume"
 email: "ravisehdev@gmail.com"
 description: "Thanks for visiting"
 author: ""
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/resume" # the subpath of your site, e.g. /blog
 url: "https://ravi.sehdev.me" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%b %d, %Y"
 
